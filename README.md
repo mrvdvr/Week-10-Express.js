@@ -28,8 +28,8 @@ Let's see some of the core features of Express framework:
 
 ##### Resources
 
-[Express Docs](https://expressjs.com/)
-[ExpressJS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+- [Express Docs](https://expressjs.com/)
+- [ExpressJS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
 
 ---
 
