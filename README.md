@@ -1,8 +1,8 @@
-## Week-10-ExpressJS
+## Week-10-express.js
 
 Hi Everyone!
 
-In this section, we are going to create our first server with ExpressJS.
+In this section, we are going to create our first server with express.js.
 
 
 ### Sunday Session
@@ -29,7 +29,7 @@ Let's see some of the core features of Express framework:
 ##### Resources
 
 - [Express Docs](https://expressjs.com/)
-- [ExpressJS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+- [express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
 
 ---
 
